@@ -1,0 +1,11 @@
+{
+    "Name": "Craftable (Coop) Incubator",
+    "Author": "TheFrenchDodo",
+    "Version": "1.0.0",
+    "Description": "Adds a recipe to craft the coop incubator.",
+    "UniqueID": "TheFrenchDodo.CraftableCoopIncubator",
+    "UpdateKeys": ["Nexus:?????"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
